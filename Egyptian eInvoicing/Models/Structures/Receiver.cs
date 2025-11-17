@@ -4,17 +4,16 @@ namespace Egyptian_eInvoicing.Models.Structures
 {
     public class Receiver
     {
-        [JsonProperty("type")]
         [Required(ErrorMessage = "Receiver type is required.")]
         public string Type { get; set; }
 
-        [JsonProperty("id")]
+        [Required(ErrorMessage = "Issuer registration number is required")]
         public string Id { get; set; }
 
-        [JsonProperty("name")]
+        [Required(ErrorMessage = "Issuer name is required")]
         public string Name { get; set; }
 
-        [JsonProperty("address")]
+        [Required(ErrorMessage = "Issuer address is required")]
         public ReceiverAddress Address { get; set; }
     
     }

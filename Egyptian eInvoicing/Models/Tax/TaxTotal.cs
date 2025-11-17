@@ -1,12 +1,13 @@
 ﻿using Newtonsoft.Json;
+using System.ComponentModel.DataAnnotations;
 namespace Egyptian_eInvoicing.Models.Tax
 {
     public class TaxTotal
     {
-        [JsonProperty("taxType")]
+        [Required(ErrorMessage = "Tax type code is required.")]
         public string TaxType { get; set; }
 
-        [JsonProperty("amount")]
+        [Required(ErrorMessage = "Taxable amount is required.")]
         public decimal Amount { get; set; }
 
     }

@@ -4,11 +4,10 @@ namespace Egyptian_eInvoicing.Models.Lines
 {
     public class Discount
     {
-        [JsonProperty("rate")]
         [Range(0, 100, ErrorMessage = "Discount rate must be between 0 and 100.")]
         public decimal Rate { get; set; }
 
-        [JsonProperty("amount")]
+        [Required(ErrorMessage = "Unit value in EGP is required.")] 
         public decimal Amount { get; set; }
     }
 }
