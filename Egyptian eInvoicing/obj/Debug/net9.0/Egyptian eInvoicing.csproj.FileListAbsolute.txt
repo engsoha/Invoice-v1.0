@@ -1,0 +1,100 @@
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\appsettings.Development.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\appsettings.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.staticwebassets.runtime.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.staticwebassets.endpoints.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.exe
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.deps.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.runtimeconfig.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.dll
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Egyptian eInvoicing.pdb
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.csproj.AssemblyReference.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.AssemblyInfoInputs.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.AssemblyInfo.cs
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.csproj.CoreCompileInputs.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.RazorAssemblyInfo.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.RazorAssemblyInfo.cs
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\scopedcss\bundle\Egyptian eInvoicing.styles.css
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\scopedcss\projectbundle\Egyptian eInvoicing.bundle.scp.css
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\52f31zuqb1-b9sayid5wm.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\o2arrttwxz-61n19gt1b8.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\ngyi0v4hd5-xtxxf3hu2r.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\k06o6woejt-bqjiyaj88i.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\9qfc1y8e24-c2jlpeoesf.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\lw5kh2ecvp-erw9l3u2r3.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\7wf7uc93u1-aexeepp0ev.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\44xxnfimgf-d7shbmvgxk.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\y9ltl76z7y-ausgxo2sd3.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\wrooghr8yw-k8d9w2qqmf.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\8jgiu54qwi-cosvhxvwiu.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\z0kffuvu93-ub07r2b239.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\2v9ul2yai6-fvhpjtyr6v.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\zg6kja44bo-b7pk76d08c.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\icmg1jztr2-fsbi9cje9m.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\w1p5mdkpkk-rzd6atqjts.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\sw7onq0efj-ee0r1s7dh0.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\asg0j4ljh0-dxx9fxp4il.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\1vvb1dbmi1-jd9uben2k1.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\aftnu1mxxt-khv3u5hwcm.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\c044j1mtr9-r4e9w2rdcm.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\72x66j7l7c-lcd1t2u6c8.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\wxwf4tkg90-c2oey78nd0.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\95ag86mbiy-tdbxkamptv.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\jo79kfsuiy-j5mq2jizvt.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\5q3nmapbwq-06098lyss8.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\y3bwrh0hou-nvvlpmu67g.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\30bh6xumea-s35ty4nyc5.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\pfxpvxx682-pj5nd1wqec.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\l2ponpivaz-46ein0sx1k.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\lvlibczjuz-v0zj4ognzu.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\kno2e5e5t5-37tfw0ft22.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\km1gnmmml5-hrwsygsryq.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\p00epj7vey-pk9g2wxc8p.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\cxxjoiemnq-ft3s53vfgj.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\ykjqivdg3p-6cfz1n2cew.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\nphr7pogcq-6pdc2jztkx.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\kk4dqlea0p-493y06b0oq.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\whrbca5dgu-iovd86k7lj.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\a9ne40ik2z-vr1egmr9el.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\wsnw2y57d0-kbrnm935zg.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\83hblsb16c-jj8uyg4cgr.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\5hczndy2a0-y7v9cxd14o.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\rixbt6ou5n-notf2xhcfb.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\pmvibo9njn-h1s4sie4z3.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\p1wbof5kfn-63fj8s7r0e.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\ltq2mg9qjv-0j3bgjxly4.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\5vhhocdhfw-47otxtyo56.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\kmb9l63blj-4v8eqarkd7.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\tn7tz007ca-356vix0kms.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\b4fsrl0xsy-83jwlth58m.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\olbfel7bqq-mrlpezrjn3.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\wyici293xk-lzl9nlhx6b.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\f0c4c3x8am-ag7o75518u.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\tyvrznkf9h-x0q3zqp4vz.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\ovicss6vh8-0i3buxo5is.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\khtn2arj87-o1o13a6vjx.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\gnxtdvpaa1-ttgo8qnofa.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\8u3mda2ysd-2z0ns9nrw6.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\hnpwszn3ay-muycvpuwrr.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\nkc4kufh66-87fc7y1x7t.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\7ar4phyafz-mlv21k5csn.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\ak1gkvrtj0-baky5kxxzn.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\compressed\lzjhz6f9hj-baky5kxxzn.gz
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\staticwebassets.build.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\staticwebassets.development.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian.3A288310.Up2Date
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.dll
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\refint\Egyptian eInvoicing.dll
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.pdb
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\Egyptian eInvoicing.genruntimeconfig.cache
+D:\Project Egyptian eInvoicing\Egyptian eInvoicing\Egyptian eInvoicing\obj\Debug\net9.0\ref\Egyptian eInvoicing.dll
