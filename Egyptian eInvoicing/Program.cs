@@ -1,3 +1,6 @@
+using Egyptian_eInvoicing.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Egyptian_eInvoicing
 {
     public class Program
@@ -5,11 +8,21 @@ namespace Egyptian_eInvoicing
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(connectionString));
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
-
+            builder.Services.AddControllersWithViews()
+                .AddNewtonsoftJson(options =>
+                {
+                    options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver();
+                });
             var app = builder.Build();
+
+            //builder.Services.AddControllersWithViews();
+            //builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

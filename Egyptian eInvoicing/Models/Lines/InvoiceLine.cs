@@ -1,12 +1,14 @@
 ﻿using Egyptian_eInvoicing.Models.Tax;
 using System.ComponentModel.DataAnnotations;
-using System.Formats.Asn1;
-using Newtonsoft.Json;
 
 namespace Egyptian_eInvoicing.Models.Lines
 {
     public class InvoiceLine
     {
+        public int Id { get; set; }
+        public int DocumentId { get; set; }
+        public Document Document { get; set; }
+
         [Required(ErrorMessage = "Item description is required.")]
         public string Description { get; set; }
 

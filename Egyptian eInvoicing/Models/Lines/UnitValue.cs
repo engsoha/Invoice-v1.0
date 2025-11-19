@@ -1,9 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
 namespace Egyptian_eInvoicing.Models.Lines
 {
     public class UnitValue
     {
+        [Key]
+        public int Id { get; set; }
+        public int InvoiceLineId { get; set; }
+        public InvoiceLine InvoiceLine { get; set; }
+
         [Required(ErrorMessage = "Currency sold code is required.")]
         public string CurrencySold { get; set; }
 

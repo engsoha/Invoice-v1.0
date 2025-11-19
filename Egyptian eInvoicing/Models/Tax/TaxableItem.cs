@@ -1,9 +1,16 @@
-﻿using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
+﻿using Egyptian_eInvoicing.Models.Lines;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 namespace Egyptian_eInvoicing.Models.Tax
 {
     public class TaxableItem
     {
+        [Key]
+        public int Id { get; set; }
+         public int InvoiceLineId { get; set; }
+        [ForeignKey("InvoiceLineId")]
+        public InvoiceLine InvoiceLine { get; set; }
+
         [Required(ErrorMessage = "Tax type code is required.")]
         public string TaxType { get; set; }
 

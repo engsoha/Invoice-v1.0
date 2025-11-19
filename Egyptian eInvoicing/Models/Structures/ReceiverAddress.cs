@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
 namespace Egyptian_eInvoicing.Models.Structures
 {
     public class ReceiverAddress
     {
+        public int Id { get; set; }
         [Required(ErrorMessage = "Country code is required.")]
         public string Country { get; set; }
 

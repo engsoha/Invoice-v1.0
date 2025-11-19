@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Egyptian eInvoicing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd6c8bc7154e7f989686eb83dc84dbf350dde41")]
 [assembly: System.Reflection.AssemblyProductAttribute("Egyptian eInvoicing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Egyptian eInvoicing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

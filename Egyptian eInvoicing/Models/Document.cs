@@ -2,15 +2,18 @@
 using Egyptian_eInvoicing.Models.Structures;
 using Egyptian_eInvoicing.Models.Tax;
 using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
 
 namespace Egyptian_eInvoicing.Models
 {
     public class Document
     {
+        [Key] 
+        public int Id { get; set; }
 
+        public int IssureId { get; set; }
         [Required(ErrorMessage = "Issuer data is required.")]
         public Issuer Issuer { get; set; }
+        public int ReceiverId { get; set; }
 
         [Required(ErrorMessage = "Receiver data is required.")]
         public Receiver Receiver { get; set; }

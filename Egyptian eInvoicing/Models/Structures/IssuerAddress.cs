@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
 
 namespace Egyptian_eInvoicing.Models.Structures
 {
     public class IssuerAddress
     {
+        public int Id { get; set; }
         [Required(ErrorMessage = "Branch ID is required for the issuer.")]
         public string BranchId { get; set; }
 
